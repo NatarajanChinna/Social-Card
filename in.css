@@ -1,0 +1,29 @@
+
+/* .box {
+    padding: 60px 0px;
+} */
+
+.fa {
+    color:rgba(82,130,209)
+}
+
+.box-part {
+    background-color:white;
+    padding: 50px 0px;
+    margin:30px 0px;
+    border-radius:0px;
+}
+a {
+    text-decoration:none;
+    border-bottom: 1px solid rgba(82,130,209);
+}
+
+.text {
+    margin: 20px 0px;
+}
+span {
+    font-size:14px;
+}
+.box {
+    padding:60px 0px;
+}
